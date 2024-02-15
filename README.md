@@ -83,6 +83,11 @@
 
 <img width="450" alt="image" src="https://github.com/alexamariei/daw-ipop/assets/147045389/aa761e38-056a-4e9d-af11-604630b04815">
 
+<br><br>
+
+<img width="450" alt="image" src="https://github.com/alexamariei/daw-ipop/assets/147045389/f435d2da-120c-4d7c-b387-f38940441f0c">
+
+
 
 
 
